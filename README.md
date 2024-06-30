@@ -1,7 +1,7 @@
 # Feature Engineering
 1. Feature Transformation  (FT)
 2. Feature Construction    (FC)
-3. Feature Selection       (FS)
+3. Feature Selection       (FSe)
 4. Feature Extraction      (FE)
 <hr>
 
@@ -34,7 +34,7 @@
             3. Percentile<br>
             4. Winsorization<br> <br>
         
-    1. Feature Scaling <br><br>
+    1. Feature Scaling (FS)<br><br>
         1. Standardization (Also called as Z-score Normalization)<br>
             - sklearn StandardScalar<br><br>
         2. Normalization<br>
