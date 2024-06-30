@@ -1,8 +1,8 @@
 # Feature Engineering
-1. Feature Transformation
-2. Feature Construction
-3. Feature Selection
-4. Feature Extraction
+1. Feature Transformation  (FT)
+2. Feature Construction    (FC)
+3. Feature Selection       (FS)
+4. Feature Extraction      (FE)
 <hr>
 
 1. **Feature Transformation** <br>
