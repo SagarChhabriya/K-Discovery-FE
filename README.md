@@ -61,7 +61,7 @@
     1. tsne <br>
 
 1. **Feature Extraction**<br><br>
-
+    1. PCA (Principle Component Analysis)
 
 MISC<br>
     - Encoding Numerical Features<br>
