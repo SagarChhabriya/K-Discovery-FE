@@ -64,7 +64,6 @@
     1. PCA (Principle Component Analysis)
 
 MISC<br>
-    - Encoding Numerical Features<br>
     - Discretization (Binning)<br>
         - Unsupervised Discretization<br>
             - Equal width uniform<br>
@@ -73,3 +72,5 @@ MISC<br>
         - Supervised<br>
             - DecisionTree Binning<br>
         - Custom Binning<br>
+Links<br>
+    [Eigendecomposition of Covariance Matrix (visiondummy.com)](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
